@@ -2,7 +2,7 @@
 
 Clean python notebook to build an ensemble machine learning model to predict diuretic resistance
 
-LDR_ML_Prediction_Notebook.ipynb = Python notebook file to run the code
+LDR_ML_Prediction.ipynb = Python notebook file to run the code
 
 MIMIC_all_noimpute.csv = formatted data of MIMIC database
 eICU_all_ml.csv = formatted data of eICU database, with imputations
